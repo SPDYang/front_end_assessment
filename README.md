@@ -1,6 +1,21 @@
+Hi, thank you for reviewing my hatchways front end accessment
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Steps to Start the Project
+
+In the project directory, 
+
+### `npm install`
+### `npm start`
+
+
+
+
+
+
+
+## More Available Scripts
 
 In the project directory, you can run:
 
